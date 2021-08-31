@@ -43,7 +43,7 @@
 4. [希尔排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/4.HillSort.md)
 5. [归并排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/5.MergeSort.md)
 6. [快速排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/6.FastSort.md)
-7. [归并排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/7.HeapSort.md)
+7. [堆排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/7.HeapSort.md)
 8. [桶排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/8.BucketSort.md)
 9. [计数排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/9.CountSort.md)
 10. [基数排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/10.BaseSort.md)
