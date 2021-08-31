@@ -1,5 +1,3 @@
-# Learn_Algorithm
-
 一、顺序查找
 
 

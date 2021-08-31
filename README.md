@@ -1,6 +1,4 @@
 # Learn_Algorithm
-算法学习总结
-
 
 ## 一、十大经典排序算法
 **排序算法是算法中最基本算法之一**
@@ -100,9 +98,5 @@
 
 如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
 
-[感谢🙏](https://raw.githubusercontent.com/FlameDream/Learn_Algorithm/main/resource/pay.jpg)
-
-
-
-
+![感谢🙏](https://raw.githubusercontent.com/FlameDream/Learn_Algorithm/main/resource/pay.jpg)
 
