@@ -35,6 +35,8 @@
 稳定的排序方法：冒泡排序、插入排序，归并排序和基数排序、计数排序、桶排序
 不稳定的排序方法： 选择排序、快速排序、希尔排序、堆排序
 
+<br>
+
 **十大排序具体内容**
 
 1. [冒泡排序](https://github.com/FlameDream/Learn_Algorithm/blob/main/sort/1.BubblingSort.md)
@@ -51,4 +53,56 @@
 
 
 
-## 二、七大经典查询算法
+## 二、七大经典查找算法
+
+查找算法：是在信息中找到特定的信息元素。
+
+1. 查找算法分类：
+
++ 1) 静态查找 和 动态查找
+
+&emsp;&emsp;**注：静态或动态是针对被查找表而言的，动态查找：被查找数组（表）中有删除和插入等操作**
+
++ 2) 无序查找 和 有序查找
+
+&emsp;&emsp;**无序查找：被查找的数组（表）有序无序均可。**
+
+&emsp;&emsp;**有序查找：被查找的数组（表）必须是有序**
+
+
+2. 平均查找长度（Average Search Length ASL）:查找的值Value 和 比较的关键值的个数的期望值（简单说：查找成功次数的期望值）
+
+查找成功的平均查找长度为：
+
+**ASL = Pi*Ci;**
+
+&emsp;&emsp;**Pi：查找表中第i个数据元素的概率。**
+
+&emsp;&emsp;**Ci：找到第i个数据元素时已经比较过的次数。**
+
+
+<br><br>
+**七大查找具体内容**
+
+1. [顺序查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+2. [二分查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+3. [插值查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+4. [斐波那契查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+5. [树表查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+6. [分块查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+7. [哈希查找](https://github.com/FlameDream/Learn_Algorithm/blob/main/seek/seek.md)
+
+
+
+**本仓库持续更新中……**
+
+## Donate
+
+如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
+
+[感谢🙏](https://raw.githubusercontent.com/FlameDream/Learn_Algorithm/main/resource/pay.jpg)
+
+
+
+
+
